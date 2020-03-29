@@ -1,0 +1,2 @@
+# basemq
+rabbitmq
